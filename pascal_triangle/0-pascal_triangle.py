@@ -4,7 +4,6 @@ Module for generating Pascal's Triangle
 """
 
 
-#!/usr/bin/python3
 def pascal_triangle(n):
     """
     Creates a list of lists representing Pascal's Triangle of size n.
