@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def pascal_triangle(n):
     if type(n) is int:
         if n <= 0:
