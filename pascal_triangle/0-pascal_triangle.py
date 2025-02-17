@@ -12,7 +12,7 @@ def pascal_triangle(n):
         n (int): The number of rows in Pascal's Triangle
 
     Returns:
-        list: A list of lists containing integers representing Pascal's Triangle
+        list: A list of lists containing integers represent Pascal's Triangle
               Returns empty list if n <= 0
 
     Example:
